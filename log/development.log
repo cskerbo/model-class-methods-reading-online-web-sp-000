@@ -1318,3 +1318,5 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 20ms (Views: 17.4ms | ActiveRecord: 1.3ms)
 
 
+Started GET "/posts?utf8=%E2%9C%93&author=13&commit=Filter" for 73.140.242.122 at 2020-02-03 23:44:12 +0000
+Cannot render console from 73.140.242.122! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
